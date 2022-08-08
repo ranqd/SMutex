@@ -1,4 +1,4 @@
-package SmartMutex
+package smutex
 
 import (
 	"fmt"
