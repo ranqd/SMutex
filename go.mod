@@ -1,4 +1,4 @@
-module github.com/ranqd/smutex
+module smutex
 
 go 1.18
 
